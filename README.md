@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=700&color=FBD000&center=true&width=700&lines=bytezlol" alt="xBytelol" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=700&color=FBD000&center=true&width=700&lines=xbytelol" alt="xBytelol" />
   <p><b>Minecraft developer & Configurator</b></p>
   <p><i>Self-taught · Java · Plugins · Configs · Always Learning</i></p>
 </div>

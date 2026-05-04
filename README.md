@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&letterSpacing=700&pause=1000&color=7EFF00&background=FF5BE800&center=true&vCenter=true&random=true&width=500&lines=Dyztlol" />
   <p><b>Minecraft developer</b></p>
 <div align="center">
-  <a href="https://discord.com/users/505864551074365453">
+  <a href="https://discord.com/users/1415785614695071877">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
